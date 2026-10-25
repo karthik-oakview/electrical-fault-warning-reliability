@@ -1,0 +1,2 @@
+dataset,evaluation,n_batteries,n_samples,n_positive,n_negative,mean_AUROC,mean_AUPRC,mean_recall_at_0.50,mean_F1_at_0.50,mean_FNR_at_0.50,pooled_recall_at_0.50,pooled_FPR_at_0.50
+NASA Li-ion Battery Aging,Strict pre-threshold LOBO,4,375,59,316,0.9894411602539772,0.9573402960574133,0.5254120879120879,0.6625811688311688,0.47458791208791207,0.5084745762711864,0.0

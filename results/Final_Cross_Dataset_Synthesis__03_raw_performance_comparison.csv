@@ -1,0 +1,4 @@
+dataset,framework_role,evaluation_level,comparison_scope,metric,conventional_reference,framework_ensemble,framework_minus_reference,higher_raw_performance
+Microchip Arc Fault,Untouched validation,Signal window,Strict unseen operating conditions,Balanced accuracy,0.6889,0.6211869805118003,-0.06771301948819963,Conventional Random Forest
+Partial Discharge,Untouched validation,Pulse segment,DCneg -> DCpos,Balanced accuracy,0.865,0.8140000000000001,-0.050999999999999934,Historical best individual model
+Partial Discharge,Untouched validation,Pulse segment,DCpos -> DCneg,Balanced accuracy,0.63,0.575,-0.05500000000000005,Historical best individual model

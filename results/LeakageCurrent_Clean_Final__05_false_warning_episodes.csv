@@ -1,0 +1,4 @@
+test_insulator,false_warning_windows,false_warning_episodes,longest_episode_windows,mean_episode_windows
+4,2,2,1,1.0
+5,3,3,1,1.0
+6,9,9,1,1.0

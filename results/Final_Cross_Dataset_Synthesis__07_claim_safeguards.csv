@@ -1,0 +1,10 @@
+topic,required_wording,prohibited_overclaim
+Raw performance,The framework did not consistently improve raw classification accuracy.,Do not claim that the framework outperformed all conventional models.
+Reliability value,Low-confidence outputs contained higher observed error rates on both untouched validation datasets.,Do not claim that every low-confidence output was incorrect.
+Development evidence,NASA and Leakage Current were development datasets.,Do not describe their Version 3 results as independent framework validation.
+Independent validation,Microchip and Partial Discharge were preserved as untouched validation datasets after Version 3 was frozen.,Do not modify the framework based on these validation results and continue describing them as untouched.
+Partial Discharge unit,Recording files are the independent experimental units.,"Do not describe 2,000 pulse segments as 2,000 independent experiments."
+Cross-dataset metrics,Each dataset represents a different prediction and reliability task.,Do not calculate or report one combined cross-dataset accuracy.
+Early warning,Temporal early-warning claims apply only to NASA Battery and Leakage Current.,Do not describe Microchip or Partial Discharge classification as temporal early-warning prediction.
+Causality,The results demonstrate associations and predictive transfer within the evaluated datasets.,Do not claim that the framework establishes a physical causal mechanism.
+Deployment,Computer-side ESP32 preparation is separate from unfinished physical-device validation.,Do not claim completed ESP32 hardware deployment until physical testing is finished.

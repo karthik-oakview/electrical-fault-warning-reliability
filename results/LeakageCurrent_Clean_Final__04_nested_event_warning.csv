@@ -1,0 +1,4 @@
+test_insulator,threshold,inner_oof_fpr,event_detected,earliest_warning_min,positive_windows,positive_warnings,positive_window_recall,negative_windows,false_warnings,false_warning_rate
+4,0.19756404412699308,0.05004420866489832,False,,10,0,0.0,1016,2,0.001968503937007874
+5,0.04785879571697485,0.05012964563526361,True,1.15,10,2,0.2,886,3,0.003386004514672686
+6,0.05983010654356474,0.050102951269732326,True,8.75,10,9,0.9,843,9,0.010676156583629894
